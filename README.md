@@ -10,11 +10,11 @@ What technology is used within the project needs to go here.
 Architecture diagram to go here
 
 ## Team roles
-Jack Radforth - Team Leader
-Milan Makwana - TBC
-Luna Davies - TBC
-Anurag Mathur - TBC
-Adrian Reyes Frias - TBC
+ - Jack Radforth - Team Leader
+ - Milan Makwana - TBC
+ - Luna Davies - TBC
+ - Anurag Mathur - TBC
+ - Adrian Reyes Frias - TBC
 
 ## Further documentation
 Group project report: - https://docs.google.com/document/d/1Q_kX_3tZkAgYgUJQhb7mk7sdDOOEQuQCe94-eMJ1ezs/edit?usp=sharing
