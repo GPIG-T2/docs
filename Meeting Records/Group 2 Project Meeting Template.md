@@ -1,8 +1,11 @@
 # Group 2 Project Meeting
 ## Subject of meeting
-**_Date:_** 01/01/1970
-**_Time:_** 12pm
-**_Length:_** 1h
+**_Date:_** 01/01/1970 
+
+**_Time:_** 12pm 
+
+**_Length:_** 1h 
+
 **_Participants:_**
 <pre>
 Jack	✓✘
